@@ -18,8 +18,10 @@
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Driconaari&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 📈 Contribution Summary
+> *Most of my recent contributions are within private organizational repositories, focusing on enterprise-grade Java applications and cloud-native solutions.*
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Driconaari&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Driconaari&icon=0&color=0)](https://visitcount.itsvg.in)

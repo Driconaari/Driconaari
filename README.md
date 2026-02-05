@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br><br>    Personal projects and Building cross-platform mobile experiences and securing backend APIs.<br><br>👯 I’m looking to collaborate on<br><br>    Creative ideas and innovative tech solutions.<br><br>🌱 I’m currently learning<br><br>    How to better leverage AI and new automation tools.<br><br>💬 Ask me about<br><br>    Java microservices, React Native development, or Linux server hardening., tech trends, or the best way to get things done.
+🔭 I’m currently working on<br><br>    Personal projects and Building cross-platform mobile experiences and securing backend APIs.<br><br>👯 I’m looking to collaborate on<br><br>    Creative ideas and innovative tech solutions.<br><br>🌱 I’m currently learning<br><br>   Penetration testing, How to better leverage AI and new automation tools.<br><br>💬 Ask me about<br><br>    Java microservices, React Native development, or Linux server hardening., tech trends, or the best way to get things done.
 
 
 ## 🌐 Socials:

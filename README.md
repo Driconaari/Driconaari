@@ -17,8 +17,7 @@
 
 ### 📈 Contribution Summary
 > *Most of my recent contributions are within private repositories, focusing on enterprise-grade Java applications and cloud-native solutions.*
-![](https://github-contributor-stats.vercel.app/api?username=Driconaari&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+> 
 ---
 [![](https://visitcount.itsvg.in/api?id=Driconaari&icon=0&color=0)](https://visitcount.itsvg.in)
 
